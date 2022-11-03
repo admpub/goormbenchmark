@@ -2,7 +2,7 @@ module goormbenchorm
 
 go 1.15
 
-replace github.com/webx-top/db => ../../webx-top/db
+// replace github.com/webx-top/db => ../../webx-top/db
 
 require (
 	github.com/beego/beego/v2 v2.0.2
