@@ -14,7 +14,7 @@ require (
 	github.com/lib/pq v1.10.6
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/upper/db/v4 v4.6.0
-	github.com/webx-top/db v1.23.5
+	github.com/webx-top/db v1.23.8
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	gorm.io/driver/mysql v1.3.3
 	gorm.io/driver/postgres v1.3.4
